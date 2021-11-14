@@ -7,7 +7,6 @@ Here, we had developed an online forum just like Quora or Reddit namely eForum t
 - Sanskar Singh Rajput, 18BCY10084, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
 - Ravisam Patel, 18BCY10071, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
 
-<br <br/>
 # UNDER THE SUPERVISION OF:
 
 - Mr. Maithili Sharan Gupta, Spl. DGP (Reforms), MP Police
