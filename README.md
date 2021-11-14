@@ -1,4 +1,4 @@
-# eForum
+# eForum: Forum for Social groups for work display, discussions and suggestions
 Here, we had developed an online forum just like Quora or Reddit namely eForum to talk, collaborate and discuss with various stakeholders.
 
 # Here, 
