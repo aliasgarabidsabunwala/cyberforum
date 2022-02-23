@@ -4,16 +4,6 @@ An online forum to talk, collaborate and discuss with various stakeholders
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliasgarSabunwala%2FeForum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=eForum+VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Here, 
-- Ali Asgar, 19BCY10023, B. Tech CSE: Cybersecurity and Digital Forensics served as a security advisor and front-end Web Developer
-- Abhinav Pandey, 19BCY10032, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
-- Sanskar Singh Rajput, 18BCY10084, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
-- Ravisam Patel, 18BCY10071, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
-
-## UNDER THE SUPERVISION OF:
-- Mr. Maithili Sharan Gupta, Spl. DGP (Reforms), MP Police
-- Dr. Praveen Lalwani, VIT Bhopal University
-
 # Introduction
 
 This forum is for enhancing the ability of cybersecurity leaders to communicate and define the value and practices of security risk management. As internet users increase in emerging economies the same challenges of disinformation and cyberattacks experienced in more cyber-advanced countries will occur. Thus, with the help of eForums, we are connecting people together and making a community who is well prepared for various scenarios. This platform will accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions.
