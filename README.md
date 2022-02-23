@@ -1,15 +1,16 @@
-<!-- https://docs.google.com/document/d/1cyN5U6Grpxab0EGQLBcsNb7NGkPNn0Ne/edit?usp=sharing&ouid=113911280769356630426&rtpof=true&sd=true -->
+<!-- Project Report - https://docs.google.com/document/d/1cyN5U6Grpxab0EGQLBcsNb7NGkPNn0Ne/edit?usp=sharing&ouid=113911280769356630426&rtpof=true&sd=true -->
 # eForum: Forum for Social groups for work display, discussions and suggestions
-Here, we had developed an online forum just like Quora or Reddit namely eForum to talk, collaborate and discuss with various stakeholders.
+An online forum to talk, collaborate and discuss with various stakeholders
 
-# Here, 
-- Ali Asgar, 19BCY10023, B. Tech CSE: Cybersecurity and Digital Forensics served as a security advisor and front-end developer and Web Designer 
-- Abhinav Pandey, 19BCY1003,2 B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliasgarSabunwala%2FeForum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=eForum+VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Here, 
+- Ali Asgar, 19BCY10023, B. Tech CSE: Cybersecurity and Digital Forensics served as a security advisor and front-end Web Developer
+- Abhinav Pandey, 19BCY10032, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
 - Sanskar Singh Rajput, 18BCY10084, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
 - Ravisam Patel, 18BCY10071, B. Tech CSE: Cybersecurity and Digital Forensics served as a Secure Software Programmer
 
-# UNDER THE SUPERVISION OF:
-
+## UNDER THE SUPERVISION OF:
 - Mr. Maithili Sharan Gupta, Spl. DGP (Reforms), MP Police
 - Dr. Praveen Lalwani, VIT Bhopal University
 
@@ -19,9 +20,28 @@ This forum is for enhancing the ability of cybersecurity leaders to communicate 
 
 # Project Strategy
 
-The Forum will have the following 5 entities which will create the basic structure for the portal,
+The Forum will have the following 5 entities which will create the basic structure for the portal
 
-Tabs will be used to display content into separated panes, given each pane is visible one at a time. Each Tab may or may not contain several Categories. Categories will be basically will provide different sections for structuring Tab content. Each category can have multiple Topics. For eg, we have FAQs as a topic, in category of Support under the Home tab. Topics will have Threads. Threads can contain discussions, information related material, eBooks, event announcements and similar. They can be created by Forum members and will contain Posts, that any forum member can make, for discussion purposes. In general, the above idea can be formalized in the following figure.
+Tabs- 
+- It will be used to display content into separated panes, given each pane is visible one at a time. 
+- Each Tab may or may not contain several Categories
+<br>
+
+Categories- 
+- It will be basically will provide different sections for structuring Tab content. 
+- Each category can have multiple Topics. 
+- For eg, we have FAQs as a topic, in category of Support under the Home tab. 
+<br>
+
+- Topics will have Threads
+<br>
+
+Threads - 
+- It can contain discussions, information related material, eBooks, event announcements and similar. 
+- They can be created by Forum members and will contain Posts, that any forum member can make, for discussion purposes. 
+<br>
+
+In general, the above idea can be formalized in the following figure.
 
 
 # Step-by-step Process
@@ -38,25 +58,23 @@ Users can get instant email notifications when someone posts on their thread(s).
 
 # Project Objectives
 
-Object Hierarchy
+1. Object Hierarchy
+2. Overall Outcome
 
-Overall Outcome
 
 # Overall objective
 
-Connecting people together and making a community for enhancing their knowledge as cybersecurity leaders and to communicate and define the value and practices of security risk management.
+Connecting people together and making a community for enhancing their knowledge as cybersecurity leaders and to communicate and define the value and practices of security risk management
 
 # Specific objective
 
-eForums to accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and 
-
-suggestions.
+eForums to accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions
 
 # Results 
 
 An active community which is aware and well-prepared for Cyber-attacks and Cyber security risks
 
-Connecting people together so they can share their work and suggestions and contribute to the community. 
+Connecting people together so they can share their work and suggestions and contribute to the community 
 
 A refined placed for Cyber-Security enthusiasts where if needed number of events, like Hackathon, can be conducted including applying for active Internships on forums for interested members
 
@@ -80,16 +98,17 @@ Research Article on Effectiveness of Using Online Discussion Forum for Case Stud
 
 Study on The Effect of Using Online Discussion Forums on Students’ Learning: This study was conducted to investigate the effect of using online discussion forums (ODFs) on students’ learning, particularly on their achievement.
 
-# Existing Software and  Tools
+# Existing Software and Tools
 
-## HackForums.net: 
+- HackForums.net: 
 Hack Forums is an internet forum. The website ranks as the number one website in the "Hacking" category in terms of web-traffic by the analysis company Alexa Internet.
 
-## Voat: 
+- Voat: 
 is a news aggregator and social networking service where registered community members can submit content such as text posts and direct links. Registered users can then vote for these submissions. 
 
-## Quora:
+- Quora:
 is an international question-and-answer website where questions are asked, answered, followed, and edited by Internet users, either factually or in the form of opinions.
+
 
 # Challenges
 
@@ -101,60 +120,59 @@ The proposed solution is carried out in various steps. First Member roles and St
 
 Forum members are divided into 3 categories, Administrator, Moderator 
 
-and Member, given each member will have certain privileges. The following is a rough figure demonstrating the roles and accessibility of features by the forum members,
-
-
-.
-
+and Member, given each member will have certain privileges. The following is a rough figure demonstrating the roles and accessibility of features by the forum members
 
 # Administration Requirements
 
 The goal for the application is to support complete web based forum administration. Details requirements are discussed in the Scope section, with the following additional detail:
 
-Able to create and set bad word filtering.
+- Able to create and set bad word filtering.
 
-Can create no of moderators and change the user rights any point of  
+- Can create no of moderators and change the user rights any point of time. 
 
-time. 
+- The application should support the capability to use multi user environment. 
 
-The application should support the capability to use multi user environment. 
-
-Analyze the member participant, no of post, no of login etc.
+- Analyze the member participant, no of post, no of login etc.
 
 
 
 # Moderator Requirements
 
-Able to close the topics.
+- Able to close the topics.
 
-Able to lock, unlock topics.
+- Able to lock, unlock topics.
 
-Able to ban particular member for posting into forum.
+- Able to ban particular member for posting into forum.
 
-Delete post, topics.
+- Delete post, topics.
 
-Reply to post.
+- Reply to post.
 
-Member Requirements
+<br>
 
-Able to register in the forum.
+Member Requirements -
 
-Change his or her own personal information.
+- Able to register in the forum.
 
-Change password.
+- Change his or her own personal information.
+
+<br>
+
+Change password -
 
 Resend the password, if member forgot his /her password, system should send the password via email.
 
-Email notification member should notified whenever new post made in his / her topics.
+<br>
 
-Formatting the post, form should have option to format post, add similes icon and formatting should support standard BBCode.
+- Email notification member should notified whenever new post made in her/ his topics.
 
-Search facilities to find topics and post.
+- Formatting the post, form should have option to format post, add similes icon and formatting should support standard BBCode.
 
-Member should easily find their post.
+- Search facilities to find topics and post.
 
-System should display unanswered topics separately.
+- Member should easily find their post.
 
+- System should display unanswered topics separately.
 
 
 # Creating different sections for
@@ -171,22 +189,13 @@ My Thread – Member can see the topics created by him or her.
 
 Data Flow Diagram - is a graphical representation of the "flow" of data through an information system. DFDs can also be used for the visualization of data processing (structured design).
 
-
-
-
-
 Member Registration, Create/Reply Post
-
 
 User Login and data retrieval from database
 
-
 Data flow for replying/viewing a post 
 
-
-
 Admin commands
-
 
 Finally, we optimized code for stability, reduced runtime crashes by using Try-Catch Statements and fixed few bugs. 
 
@@ -214,13 +223,10 @@ Support more BB code for reply formatting.
 
 For a better user experience and enthusiasts to stay focused on their work at all times, eForums become vital. With the current project development, we can accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions.
 
-# Flow Chart
-
-
 # References
 
-- The effect of using online discussion forums on students' learning
+- "The effect of using online discussion forums on students' learning", https://www.researchgate.net/
 
-- What to expect, and how to improve online discussion forums: the instructors’ perspective
+- "What to expect, and how to improve online discussion forums: the instructors’ perspective", https://www.researchgate.net/
 
-- Effectiveness of Using Online Discussion Forum for Case Study Analysis
+- "Effectiveness of Using Online Discussion Forum for Case Study Analysis", https://www.researchgate.net/
