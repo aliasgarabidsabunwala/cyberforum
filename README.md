@@ -215,8 +215,8 @@ For a better user experience and enthusiasts to stay focused on their work at al
 
 # References
 
-- "The effect of using online discussion forums on students' learning", https://www.researchgate.net/
+- "The effect of using online discussion forums on students' learning", Paper at [ResearchGate](https://www.researchgate.net/publication/312136267_The_effect_of_using_online_discussion_forums_on_students'_learning)
 
-- "What to expect, and how to improve online discussion forums: the instructors’ perspective", https://www.researchgate.net/
+- "What to expect, and how to improve online discussion forums: the instructors’ perspective", https://www.researchgate.net/ Paper at [ResearchGate](https://www.researchgate.net/publication/337733287_What_to_expect_and_how_to_improve_online_discussion_forums_the_instructors'_perspective)
 
-- "Effectiveness of Using Online Discussion Forum for Case Study Analysis", https://www.researchgate.net/
+- "Effectiveness of Using Online Discussion Forum for Case Study Analysis", https://www.researchgate.net/ Paper at [ResearchGate](https://www.researchgate.net/publication/271845597_Effectiveness_of_Using_Online_Discussion_Forum_for_Case_Study_Analysis)
