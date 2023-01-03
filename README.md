@@ -1,6 +1,7 @@
 <!-- Project Report - https://docs.google.com/document/d/1cyN5U6Grpxab0EGQLBcsNb7NGkPNn0Ne/edit?usp=sharing&ouid=113911280769356630426&rtpof=true&sd=true -->
-# eForum: Forum for Social groups for work display, discussions and suggestions
-An online forum to talk, collaborate and discuss with various stakeholders
+
+# eForum
+An online forum to talk, collaborate and discuss with various stakeholders for Social groups for work display, discussions and suggestions
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliasgarSabunwala%2FeForum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=eForum+VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,6 +9,7 @@ An online forum to talk, collaborate and discuss with various stakeholders
 
 This forum is for enhancing the ability of cybersecurity leaders to communicate and define the value and practices of security risk management. As internet users increase in emerging economies the same challenges of disinformation and cyberattacks experienced in more cyber-advanced countries will occur. Thus, with the help of eForums, we are connecting people together and making a community who is well prepared for various scenarios. This platform will accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions.
 
+Excited 🎉🥳. Here's how to set-up and run eForum on your system, [INSTALLATION GUIDE](https://github.com/aliasgarabidsabunwala/eforum/blob/4a84cfb15dbc3bf5e00178509472b7f43d11229a/INSTALL.md)
 # Project Strategy
 
 The Forum will have the following 5 entities which will create the basic structure for the portal
@@ -17,7 +19,7 @@ Tabs-
 - Each Tab may or may not contain several Categories
 <br>
 
-Categories- 
+Categories - 
 - It will be basically will provide different sections for structuring Tab content. 
 - Each category can have multiple Topics. 
 - For eg, we have FAQs as a topic, in category of Support under the Home tab. 
@@ -46,6 +48,7 @@ Added text formatting while making posts, users can change their personal inform
 
 Users can get instant email notifications when someone posts on their thread(s).
 
+
 # Project Objectives
 
 1. Object Hierarchy
@@ -56,9 +59,11 @@ Users can get instant email notifications when someone posts on their thread(s).
 
 Connecting people together and making a community for enhancing their knowledge as cybersecurity leaders and to communicate and define the value and practices of security risk management
 
+
 # Specific objective
 
 eForums to accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions
+
 
 # Results 
 
@@ -67,6 +72,7 @@ An active community which is aware and well-prepared for Cyber-attacks and Cyber
 Connecting people together so they can share their work and suggestions and contribute to the community 
 
 A refined placed for Cyber-Security enthusiasts where if needed number of events, like Hackathon, can be conducted including applying for active Internships on forums for interested members
+
 
 # Activities
 
