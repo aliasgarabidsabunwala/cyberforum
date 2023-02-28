@@ -10,6 +10,7 @@ An online forum to talk, collaborate and discuss with various stakeholders for S
 This forum is for enhancing the ability of cybersecurity leaders to communicate and define the value and practices of security risk management. As internet users increase in emerging economies the same challenges of disinformation and cyberattacks experienced in more cyber-advanced countries will occur. Thus, with the help of eForums, we are connecting people together and making a community who is well prepared for various scenarios. This platform will accommodate needs where all stakeholders such as Academic Institutions, Students, Alumina, Industries, Scientists, Research Scholars, NGOs and other organizations may join and have a strong platform for discussion, work display and suggestions.
 
 Excited 🎉🥳. Here's how to set-up and run eForum on your system, [INSTALLATION GUIDE](https://github.com/aliasgarabidsabunwala/eforum/blob/4a84cfb15dbc3bf5e00178509472b7f43d11229a/INSTALL.md)
+
 # Project Strategy
 
 The Forum will have the following 5 entities which will create the basic structure for the portal
