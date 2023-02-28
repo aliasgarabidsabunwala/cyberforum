@@ -147,7 +147,7 @@ The goal for the application is to support complete web based forum administrati
 
 <br>
 
-Member Requirements -
+## Member Requirements -
 
 - Able to register in the forum.
 
@@ -155,7 +155,7 @@ Member Requirements -
 
 <br>
 
-Change password -
+## Change password -
 
 Resend the password, if member forgot his /her password, system should send the password via email.
 
@@ -222,8 +222,8 @@ For a better user experience and enthusiasts to stay focused on their work at al
 
 # References
 
-- "The effect of using online discussion forums on students' learning", Paper at [ResearchGate](https://www.researchgate.net/publication/312136267_The_effect_of_using_online_discussion_forums_on_students'_learning)
+- "The effect of using online discussion forums on students' learning", Paper at ResearchGate [here](https://www.researchgate.net/publication/312136267_The_effect_of_using_online_discussion_forums_on_students'_learning).
 
-- "What to expect, and how to improve online discussion forums: the instructors’ perspective", Paper at [ResearchGate](https://www.researchgate.net/publication/337733287_What_to_expect_and_how_to_improve_online_discussion_forums_the_instructors'_perspective)
+- "What to expect, and how to improve online discussion forums: the instructors’ perspective", Paper at  ResearchGate [here](https://www.researchgate.net/publication/337733287_What_to_expect_and_how_to_improve_online_discussion_forums_the_instructors'_perspective).
 
-- "Effectiveness of Using Online Discussion Forum for Case Study Analysis", Paper at [ResearchGate](https://www.researchgate.net/publication/271845597_Effectiveness_of_Using_Online_Discussion_Forum_for_Case_Study_Analysis)
+- "Effectiveness of Using Online Discussion Forum for Case Study Analysis", Paper at ResearchGate [here](https://www.researchgate.net/publication/271845597_Effectiveness_of_Using_Online_Discussion_Forum_for_Case_Study_Analysis).
