@@ -1,5 +1,5 @@
 
-# eForum
+# Cyber Forum
 An online forum to talk, collaborate and discuss with various stakeholders for Social groups for work display, discussions and suggestions
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliasgarSabunwala%2FeForum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=eForum+VIEW&edge_flat=false)](https://hits.seeyoufarm.com)
